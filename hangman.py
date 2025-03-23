@@ -257,6 +257,4 @@ def main():
 if __name__ == "__main__":
     main()
  # Credit line at the bottom
-    st.markdown("<p style='text-align: center; margin-top: 10px; color: #fc03a5; font-weight: bold; font-size: 30px; font-family: monospace;'>Created By: Rahat Bano 🎮</p>", unsafe_allow_html=True) 
-if __name__ == "__main__":
-    main()
+    st.markdown("<p style='text-align: center; margin-top: 10px; color: #fc03a5; font-weight: bold; font-size: 30px; font-family: monospace;'>Created By: Rahat Bano 🎮</p>", unsafe_allow_html=True)
